@@ -1,100 +1,82 @@
 [
     {
-
         "category": "phone",
         "name": "SAMSUNG GALAXY Z FOLD5 5G 12/512GB",
         "description": "Dynamic AMOLED 2X RAM memory: 12GB, Built-in memory [GB]: 512, Battery capacity [mAh]: 4400.",
         "image": "SAMSUNG Galaxy.jpg",
         "price": 8799,
         "oldPrice": 9100
-        
     },
-     {
-
+    {
         "category": "phone",
         "name": "APPLE IPHONE 14 128GB",
         "description": "Super Retina XDR Built-in memory [GB]: 128,  Processor: Apple A16 Bionic, Hexa-Core System version: iOS 16.",
         "image": "iphone.jpg",
         "price": 4189,
         "oldPrice": 4500
-        
     },
-     {
-
+    {
         "category": "phone",
         "name": "SAMSUNG Galaxy Z Flip 5 8/512GB",
         "description": "RAM: 8GB, Built-in memory [GB]: 256, Battery capacity [mAh]: 3700.",
         "image": "SAMSUNG-Galaxy-Z-Flip-5-Grafitowy.jpg",
         "price": 5599,
-        "oldPrice": 
-        
+        "oldPrice": 0
     },
-     {
-
+    {
         "category": "phone",
         "name": "XIAOMI Redmi Note 12S 8/256GB",
         "description": "RAM: 8GB, Built-in memory [GB]: 256, Battery capacity [mAh]: 5000.",
         "image": "XIAOMI-Redmi-Note-12S-Czarny-tyl-front.jpg",
         "price": 1299,
-        "oldPrice": 
-        
+        "oldPrice": 0
     },
-     {
-
+    {
         "category": "phone",
         "name": "REALME 11 Pro 8/256GB 5G",
         "description": "RAM: 8GB, Built-in memory [GB]: 256, Battery capacity [mAh]: 5500.",
         "image": "REALME-11-PRO-5G-8-128GB-6-7-120Hz-Bezowy-RMX3771-front-tyl.jpg",
         "price": 1799,
-        "oldPrice": 
-        
+        "oldPrice": 0
     },
-     {
-
+    {
         "category": "phone",
         "name": "INFINIX Hot 30 8/256GB",
         "description": "RAM: 8GB, Built-in memory [GB]: 256, Battery capacity [mAh]: 4500.",
         "image": "INFINIX-Hot-30-8256GB-6-78-90Hz-Czarny-X683-front-tyl.jpg",
         "price": 1299,
-        "oldPrice": 
-        
+        "oldPrice": 0
     },
-     {
-
+    {
         "category": "phone",
         "name": "TECNO Spark 10 Pro 8/256GB",
         "description": "RAM: 8GB, Built-in memory [GB]: 256, Battery capacity [mAh]: 4000.",
         "image": "TECNO-Spark-10-Pro-Czarny-tyl-front-1.jpg",
         "price": 999,
         "oldPrice": 1450
-        
     },
-     {
-
+    {
         "category": "phone",
         "name": "MOTOROLA Moto G72 8/128GB",
         "description": "RAM: 8GB Built-in memory [GB]: 128 Battery capacity [mAh]: 5000.",
         "image": "MOTOROLA-Moto-G72-8-128GB-Zielony-tyl-front.jpg",
         "price": 999,
         "oldPrice": 1300
-        
     },
     {
-
         "category": "monitor",
         "name": "Product 2",
         "description": "Description of Product 2",
         "image": "image2.jpg",
         "price": 29.99,
-        "oldPrice": 
+        "oldPrice": 0
     },
     {
-
         "category": "keyboard",
         "name": "Product 3",
         "description": "Description of Product 3",
         "image": "image3.jpg",
-        "price": 39.99
-        "oldPrice": 
+        "price": 39.99,
+        "oldPrice": 0
     }
 ]

@@ -1,6 +1,7 @@
 [
     {
         "id": 1,
+        "category": "phone",
         "name": "Product 1",
         "description": "Description of Product 1",
         "image": "image1.jpg",
@@ -8,6 +9,7 @@
     },
     {
         "id": 2,
+        "category": "monitor",
         "name": "Product 2",
         "description": "Description of Product 2",
         "image": "image2.jpg",
@@ -15,6 +17,7 @@
     },
     {
         "id": 3,
+        "category": "keyboard",
         "name": "Product 3",
         "description": "Description of Product 3",
         "image": "image3.jpg",

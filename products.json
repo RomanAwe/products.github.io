@@ -129,10 +129,34 @@
     },
     {
         "category": "keyboard",
-        "name": "Product 3",
-        "description": "Description of Product 3",
-        "image": "image3.jpg",
-        "price": 39.99,
+        "name": "STEELSERIES Apex Pro Mini Wireless",
+        "description": "Keyboard Type: Mechanical, Communication with the computer: Wireless, Wired, Interface: Bluetooth, USB",
+        "image": "STEELSERIES-Apex-Pro-Wireless-2.jpg",
+        "price": 949,
+        "oldPrice": 0
+    },
+    {
+        "category": "keyboard",
+        "name": "RAZER BlackWidow V3 Mini HyperSpeed",
+        "description": "Keyboard Type: Mechanical, Communication with computer: Wireless, Interface: Bluetooth, USB",
+        "image": "RAZER-BlackWidow-V3-Mini-HyperSpeed-front-podswietlenie.jpg",
+        "price": 661,
+        "oldPrice": 0
+    },
+    {
+        "category": "keyboard",
+        "name": "ASUS ROG Azoth",
+        "description": "Keyboard Type: Mechanical, Communication with computer: Wireless, Interface: Bluetooth, USB",
+        "image": "ASUS-ROG-Azoth-front-podswietlenie.jpg",
+        "price": 1348,
+        "oldPrice": 0
+    },
+    {
+        "category": "keyboard",
+        "name": "Varmilo VEM87 Sea Melody, EC V2 Daisy",
+        "description": "Keyboard Type: Mechanical, Communication with the computer: Wired, Interface: Bluetooth, USB",
+        "image": "varmilo-vem87-sea-melody.jpg",
+        "price": 1248,
         "oldPrice": 0
     }
 ]

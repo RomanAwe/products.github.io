@@ -64,8 +64,8 @@
         "oldPrice": 1300
     },
     {
-        "category": "ACER Predator XB253QGW 24.5 1920x1080px IPS 280Hz 1 ms",
-        "name": "Product 2",
+        "category": "monitor",
+        "name": "ACER Predator XB253QGW 24.5 1920x1080px IPS 280Hz 1 ms",
         "description": "Screen: 24.5, 1920 x 1080px, IPS Image refresh rate [Hz]: 280, Screen brightness [cd/m2]: 400.",
         "image": "ACER-Predator-XB253QGW-front.jpg",
         "price": 1499,

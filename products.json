@@ -112,6 +112,22 @@
         "oldPrice": 0
     },
     {
+        "category": "monitor",
+        "name": "GIGABYTE M27Q Rev 2.0 27 2560x1440px IPS 165Hz 1 ms",
+        "description": "Screen: 27, 2560 x 1440px, IPS, Image refresh rate [Hz]: 165, 170 - OC, [MPRT] Screen brightness [cd/m2]: 350.",
+        "image": "GIGABYTE-M27Q-Rev-2-0-1.jpg",
+        "price": 1339,
+        "oldPrice": 0
+    },
+    {
+        "category": "monitor",
+        "name": "GIGABYTE G32QC A 31.5 2560x1440px 165 Hz 1 ms",
+        "description": "Screen: 31.5, 2560 x 1440px, VA, Curved screen, Image refresh rate [Hz]: 165, Screen brightness [cd/m2]: 350.",
+        "image": "GIGABYTE-G32QC-A-31_5-2560x1440px-165Hz-1ms-Curved-front.jpg",
+        "price": 1599,
+        "oldPrice": 0
+    },
+    {
         "category": "keyboard",
         "name": "Product 3",
         "description": "Description of Product 3",

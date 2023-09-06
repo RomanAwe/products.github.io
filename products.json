@@ -64,11 +64,51 @@
         "oldPrice": 1300
     },
     {
-        "category": "monitor",
+        "category": "ACER Predator XB253QGW 24.5 1920x1080px IPS 280Hz 1 ms",
         "name": "Product 2",
-        "description": "Description of Product 2",
-        "image": "image2.jpg",
-        "price": 29.99,
+        "description": "Screen: 24.5, 1920 x 1080px, IPS Image refresh rate [Hz]: 280, Screen brightness [cd/m2]: 400.",
+        "image": "ACER-Predator-XB253QGW-front.jpg",
+        "price": 1499,
+        "oldPrice": 0
+    },
+    {
+        "category": "monitor",
+        "name": "SAMSUNG Odyssey G5 LS27AG550EP 26.9 2560x1440px 165Hz 1 ms",
+        "description": "Screen: 26.9, 2560 x 1440px, VA, Curved screen Image refresh rate [Hz]: 165, Screen brightness [cd/m2]: 300.",
+        "image": "SAMSUNG-Odyssey-G5-S27AG550-front.jpg",
+        "price": 1099,
+        "oldPrice": 0
+    },
+    {
+        "category": "monitor",
+        "name": "ASUS TUF Gaming VG249QM1A 23.8 1920x1080px IPS 270Hz 1 ms",
+        "description": "Screen: 23.8, 1920 x 1080px, IPS Image refresh rate [Hz]: 270, Screen brightness [cd/m2]: 350.",
+        "image": "ASUS-TUF-Gaming-VG249QM1A-front.jpg",
+        "price": 1264,
+        "oldPrice": 0
+    },
+    {
+        "category": "monitor",
+        "name": "ACER Nitro QG270S3BIPX 27 1920x1080px 180Hz 1ms",
+        "description": "Screen: 27, 1920 x 1080px, VA Image refresh rate [Hz]: 180, Screen brightness [cd/m2]: 250.",
+        "image": "ACER-Nitro-QG270S3BIPX-front.jpeg",
+        "price": 799,
+        "oldPrice": 0
+    },
+    {
+        "category": "monitor",
+        "name": "GIGABYTE M28U 28 3840x2160px IPS 144 Hz 1 ms",
+        "description": "Screen: 28, 3840 x 2160px, IPS, Image refresh rate [Hz]: 144, Screen brightness [cd/m2]: 300.",
+        "image": "GIGABYTE-M28U-28-3840x2160-IPS-144-Hz-1-ms-front.jpg",
+        "price": 2099,
+        "oldPrice": 0
+    },
+    {
+        "category": "monitor",
+        "name": "AOC G2 C27G2ZE 27 1920x1080px 240Hz 0.5 ms",
+        "description": "Screen: 27, 1920 x 1080px, VA, Curved screen, Image refresh rate [Hz]: 240, Screen brightness [cd/m2]: 300.",
+        "image": "AOC-C27G2ZE-fron.jpg",
+        "price": 929,
         "oldPrice": 0
     },
     {

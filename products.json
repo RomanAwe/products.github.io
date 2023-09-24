@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "category": "phone",
         "name": "SAMSUNG GALAXY Z FOLD5 5G 12/512GB",
         "description": "Dynamic AMOLED 2X RAM memory: 12GB, Built-in memory [GB]: 512, Battery capacity [mAh]: 4400.",
@@ -8,6 +9,7 @@
         "oldPrice": 9100
     },
     {
+        "id": 2,
         "category": "phone",
         "name": "APPLE IPHONE 14 128GB",
         "description": "Super Retina XDR Built-in memory [GB]: 128,  Processor: Apple A16 Bionic, Hexa-Core System version: iOS 16.",
@@ -16,6 +18,7 @@
         "oldPrice": 4500
     },
     {
+        "id": 3,
         "category": "phone",
         "name": "SAMSUNG Galaxy Z Flip 5 8/512GB",
         "description": "RAM: 8GB, Built-in memory [GB]: 256, Battery capacity [mAh]: 3700.",
@@ -24,6 +27,7 @@
         "oldPrice": 0
     },
     {
+        "id": 4,
         "category": "phone",
         "name": "XIAOMI Redmi Note 12S 8/256GB",
         "description": "RAM: 8GB, Built-in memory [GB]: 256, Battery capacity [mAh]: 5000.",
@@ -32,6 +36,7 @@
         "oldPrice": 0
     },
     {
+        "id": 5,
         "category": "phone",
         "name": "REALME 11 Pro 8/256GB 5G",
         "description": "RAM: 8GB, Built-in memory [GB]: 256, Battery capacity [mAh]: 5500.",
@@ -39,7 +44,8 @@
         "price": 1799,
         "oldPrice": 0
     },
-    {
+    { 
+        "id": 6,
         "category": "phone",
         "name": "INFINIX Hot 30 8/256GB",
         "description": "RAM: 8GB, Built-in memory [GB]: 256, Battery capacity [mAh]: 4500.",
@@ -48,6 +54,7 @@
         "oldPrice": 0
     },
     {
+        "id": 7,
         "category": "phone",
         "name": "TECNO Spark 10 Pro 8/256GB",
         "description": "RAM: 8GB, Built-in memory [GB]: 256, Battery capacity [mAh]: 4000.",
@@ -56,6 +63,7 @@
         "oldPrice": 1450
     },
     {
+        "id": 8,
         "category": "phone",
         "name": "MOTOROLA Moto G72 8/128GB",
         "description": "RAM: 8GB Built-in memory [GB]: 128 Battery capacity [mAh]: 5000.",
@@ -64,6 +72,7 @@
         "oldPrice": 1300
     },
     {
+        "id": 9,
         "category": "monitor",
         "name": "ACER Predator XB253QGW 24.5 1920x1080px IPS 280Hz 1 ms",
         "description": "Screen: 24.5, 1920 x 1080px, IPS Image refresh rate [Hz]: 280, Screen brightness [cd/m2]: 400.",
@@ -72,6 +81,7 @@
         "oldPrice": 0
     },
     {
+        "id": 10,
         "category": "monitor",
         "name": "SAMSUNG Odyssey G5 LS27AG550EP 26.9 2560x1440px 165Hz 1 ms",
         "description": "Screen: 26.9, 2560 x 1440px, VA, Curved screen Image refresh rate [Hz]: 165, Screen brightness [cd/m2]: 300.",
@@ -80,6 +90,7 @@
         "oldPrice": 0
     },
     {
+        "id": 11,
         "category": "monitor",
         "name": "ASUS TUF Gaming VG249QM1A 23.8 1920x1080px IPS 270Hz 1 ms",
         "description": "Screen: 23.8, 1920 x 1080px, IPS Image refresh rate [Hz]: 270, Screen brightness [cd/m2]: 350.",
@@ -88,6 +99,7 @@
         "oldPrice": 0
     },
     {
+        "id": 12,
         "category": "monitor",
         "name": "ACER Nitro QG270S3BIPX 27 1920x1080px 180Hz 1ms",
         "description": "Screen: 27, 1920 x 1080px, VA Image refresh rate [Hz]: 180, Screen brightness [cd/m2]: 250.",
@@ -96,6 +108,7 @@
         "oldPrice": 0
     },
     {
+        "id": 13,
         "category": "monitor",
         "name": "GIGABYTE M28U 28 3840x2160px IPS 144 Hz 1 ms",
         "description": "Screen: 28, 3840 x 2160px, IPS, Image refresh rate [Hz]: 144, Screen brightness [cd/m2]: 300.",
@@ -104,6 +117,7 @@
         "oldPrice": 0
     },
     {
+        "id": 14,
         "category": "monitor",
         "name": "AOC G2 C27G2ZE 27 1920x1080px 240Hz 0.5 ms",
         "description": "Screen: 27, 1920 x 1080px, VA, Curved screen, Image refresh rate [Hz]: 240, Screen brightness [cd/m2]: 300.",
@@ -112,6 +126,7 @@
         "oldPrice": 0
     },
     {
+        "id": 15,
         "category": "monitor",
         "name": "GIGABYTE M27Q Rev 2.0 27 2560x1440px IPS 165Hz 1 ms",
         "description": "Screen: 27, 2560 x 1440px, IPS, Image refresh rate [Hz]: 165, 170 - OC, [MPRT] Screen brightness [cd/m2]: 350.",
@@ -120,6 +135,7 @@
         "oldPrice": 0
     },
     {
+        "id": 16,
         "category": "monitor",
         "name": "GIGABYTE G32QC A 31.5 2560x1440px 165 Hz 1 ms",
         "description": "Screen: 31.5, 2560 x 1440px, VA, Curved screen, Image refresh rate [Hz]: 165, Screen brightness [cd/m2]: 350.",
@@ -128,6 +144,7 @@
         "oldPrice": 0
     },
     {
+        "id": 17,
         "category": "keyboard",
         "name": "STEELSERIES Apex Pro Mini Wireless",
         "description": "Keyboard Type: Mechanical, Communication with the computer: Wireless, Wired, Interface: Bluetooth, USB",
@@ -136,6 +153,7 @@
         "oldPrice": 0
     },
     {
+        "id": 18,
         "category": "keyboard",
         "name": "RAZER BlackWidow V3 Mini HyperSpeed",
         "description": "Keyboard Type: Mechanical, Communication with computer: Wireless, Interface: Bluetooth, USB",
@@ -144,6 +162,7 @@
         "oldPrice": 0
     },
     {
+        "id": 19,
         "category": "keyboard",
         "name": "ASUS ROG Azoth",
         "description": "Keyboard Type: Mechanical, Communication with computer: Wireless, Interface: Bluetooth, USB",
@@ -152,6 +171,7 @@
         "oldPrice": 0
     },
     {
+        "id": 20,
         "category": "keyboard",
         "name": "Varmilo VEM87 Sea Melody, EC V2 Daisy",
         "description": "Keyboard Type: Mechanical, Communication with the computer: Wired, Interface: Bluetooth, USB",

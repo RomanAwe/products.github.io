@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "title": 'Glass Table',
+      "title": "Glass Table",
       "img": "table.avif",
       "desc": "Sleek and space-saving glass table.",
       "fullDesc": "The small glass table is a sleek and space-saving piece of furniture that adds an elegant touch to your decor. Its transparent top creates an illusion of extra space in your room.",
@@ -28,7 +28,7 @@
     },
     {
       "id": 4,
-      "title": 'Standard Dark Sofa',
+      "title": "Standard Dark Sofa",
       "img": "sofa1.avif",
       "desc": "Classic, durable, and dark-colored sofa.",
       "fullDesc": "The standard dark sofa is a classic and durable addition to your living space. Its dark upholstery is not only timeless but also resistant to stains, making it an excellent choice for households with children or pets.",
